@@ -54,4 +54,4 @@ The design team has put together a design for how they’d like this component t
 
 ## Deployed application
 
-Go here and enjoy the application! 🙂
+Go [here](https://qventus-coding-challenge.vercel.app/) and enjoy the application! 🙂
