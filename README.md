@@ -36,7 +36,7 @@ The design team has put together a design for how they’d like this component t
 - You can code the solution in whatever language you want, but it must be a React component, since all our applications are in React and we want to be able to re-use components.
 - This is your chance to show us what you can do, so your code should be something you’d be proud to ship. We value quality over quantity when it comes to code.
 
-## Setup
+## Run app
 
 1. Clone the repository
 2. Open a terminal where the repository was cloned and execute the following command:
@@ -44,6 +44,14 @@ The design team has put together a design for how they’d like this component t
     npm run dev
     ```
 3. Open in the browser http://localhost:5173/
+
+## Build app
+
+1. Open a terminal where the repository was cloned and execute the following command:
+    ```
+    npm run build
+    ```
+2. A `dist` folder will be created on the root with built files
 
 ## Unit tests
 
